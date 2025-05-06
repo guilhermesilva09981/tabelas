@@ -13,3 +13,7 @@ li a{
     text-decoration: none;
     color: rgb(58, 13, 13);
 }
+
+li a:hover{
+    background-color: aqua;
+}
