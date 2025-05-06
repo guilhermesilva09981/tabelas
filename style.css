@@ -4,3 +4,11 @@ body{
     font-size: 18px;
     line-height: 1,7em;
 }
+
+header li{
+    list-style-type: none ;
+}
+
+li a{
+    text-decoration: none;
+}
